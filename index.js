@@ -56,4 +56,4 @@ const GetAll = () => {
   });
 };
 
-GetAll();
+Delete();
